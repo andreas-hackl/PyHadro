@@ -1,1 +1,1 @@
-# PyLQCD
+# PyHadro
