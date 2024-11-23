@@ -1,0 +1,16 @@
+[project]
+name="pyhadro"
+version = "1.0"
+authors = [
+    {name="Andreas Hackl", email="andreas.hackl@ur.de"}
+]
+description = "Framework to do Lattice QCD analysis"
+requires-python=">=3.6"
+readme="README.md"
+dependencies = [
+    "numpy", 
+]
+license = { file = "LICENSE" }
+
+
+
